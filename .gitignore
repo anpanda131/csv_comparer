@@ -1,0 +1,11 @@
+# files with ending:
+*.[oa]
+.env
+*~
+*.log
+
+# directories:
+__pycache__/
+.idea/
+.git/
+.csv_files/
